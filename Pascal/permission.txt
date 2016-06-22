@@ -1,0 +1,44 @@
+Beste Adrianus,
+
+U mag met "unizoek" doen wat u maar wilt.
+Zolang ik maar niet aansprakelijk ben voor de gevolgen :-)
+
+Ik ben met pensioen. De vervangende website is:
+
+http://www.alternatievewiskunde.nl/
+
+Met vriendelijke groet,
+
+Han de Bruijn
+
+
+Op 22 juni 2016 17:33 schreef Adrianus Warmenhoven:
+
+    Geachte Heer De Bruijn,
+
+    tijdens mijn werk was ik op zoek naar wat zaken die mij daarin konden
+    helpen en zo stuitte ik op Donald Knuth's Uniform Binary Search.
+
+    https://en.wikipedia.org/wiki/Uniform_binary_search
+
+    Onderaan de Wikipedia pagina staat een link naar unizoek.pas hetgeen van
+    uw hand stamt.
+
+    Echter, uw pagina van de tudelft is inmiddels verdwenen.
+
+    Gelukkig is er nog een archive.org versie van bewaard gebleven:
+
+    http://web.archive.org/web/20060621232959/http://huizen.dto.tudelft.nl/deBruijn/
+
+    En daar vond ik unizoek.pas
+
+    Nu is mijn vraag of ik dat Pascal bestand in mijn Git Repo mag plaatsen
+    (met uw toestemming en vermelding van uw naam, daarom mail ik) of dat u
+    wellicht het bestand op een eigen pagina wenst te plaatsen en de link in
+    Wikipedia daarheen te laten verwijzen.
+
+    Ik voeg unizoek.pas als bijlage toe voor het geval u dit niet meer heeft
+    en de laatste optie wenst.
+
+    Met vriendelijke groeten,
+                            Adrianus Warmenhoven
