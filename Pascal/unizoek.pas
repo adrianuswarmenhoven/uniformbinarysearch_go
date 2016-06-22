@@ -1,6 +1,8 @@
 Program Algorithm;
 
-{ Uniform binary search.
+{ Pascal version by Han de Bruijn
+
+  Uniform binary search.
   Algorithm C on page 412 of "The Art of Computer Programming"
   volume 3 / "Sorting and Searching" by Donald E. Knuth. }
 
